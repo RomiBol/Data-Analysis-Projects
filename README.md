@@ -1,6 +1,6 @@
 <header>
 
-# Introduction to SQL project repository 📚
+# Introduction to Data Analysis Projects repository 📚
 
 - I am using Github's space to upload reports of SQL projects.
 - So far, this repository includes 2 reports:
