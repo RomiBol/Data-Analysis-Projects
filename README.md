@@ -1,6 +1,6 @@
 <header>
 
-# Introduction to Data Analysis Projects repository 📚
+# Introduction to Data Analysis Projects Repository 📚
 
 - I am using Github's space to upload reports of projects.
 - So far, this repository includes the following reports:
